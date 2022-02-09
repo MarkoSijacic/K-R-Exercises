@@ -1,6 +1,6 @@
 // @logos_design; K&R Book, Exercise 1-20
 
-// replace /t with enough space chars till the next tab stop (as per my understanding, tab stop is every 5 char columns)
+// replace /t with enough space chars till the next tab stop (as per my understanding, tab stop is every 8 char columns)
 
 #include <stdio.h>
 #define TABSTOPLENGHT 8 //tabstop interval
